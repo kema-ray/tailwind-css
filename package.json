@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/kema-ray/tailwind-css/issues"
   },
-  "homepage": "https://github.com/kema-ray/tailwind-css#readme"
+  "homepage": "https://github.com/kema-ray/tailwind-css#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.8",
+    "postcss-cli": "^10.0.0",
+    "tailwindcss": "^3.1.8"
+  }
 }
